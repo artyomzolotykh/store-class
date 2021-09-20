@@ -1,3 +1,3 @@
 # Информация по проекту
 
-Ссылка на страницу: [StoreClass](https://artyomzolotykh.github.io/store-func/).
+Ссылка на страницу: [StoreFunc](https://artyomzolotykh.github.io/store-class/).
