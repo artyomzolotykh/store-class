@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/store-class/static/css/main.8a5f13a4.chunk.css",
-    "main.js": "/store-class/static/js/main.ae5c918c.chunk.js",
-    "main.js.map": "/store-class/static/js/main.ae5c918c.chunk.js.map",
-    "runtime-main.js": "/store-class/static/js/runtime-main.1a3d6a3a.js",
-    "runtime-main.js.map": "/store-class/static/js/runtime-main.1a3d6a3a.js.map",
-    "static/js/2.d9452f08.chunk.js": "/store-class/static/js/2.d9452f08.chunk.js",
-    "static/js/2.d9452f08.chunk.js.map": "/store-class/static/js/2.d9452f08.chunk.js.map",
-    "static/js/3.cf653c6b.chunk.js": "/store-class/static/js/3.cf653c6b.chunk.js",
-    "static/js/3.cf653c6b.chunk.js.map": "/store-class/static/js/3.cf653c6b.chunk.js.map",
-    "index.html": "/store-class/index.html",
-    "static/css/main.8a5f13a4.chunk.css.map": "/store-class/static/css/main.8a5f13a4.chunk.css.map",
-    "static/js/2.d9452f08.chunk.js.LICENSE.txt": "/store-class/static/js/2.d9452f08.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/store-class/static/media/item-blue.2103f69b.jpg"
+    "main.css": "/store-func/static/css/main.8dd1c904.chunk.css",
+    "main.js": "/store-func/static/js/main.ae5c918c.chunk.js",
+    "main.js.map": "/store-func/static/js/main.ae5c918c.chunk.js.map",
+    "runtime-main.js": "/store-func/static/js/runtime-main.03d8df78.js",
+    "runtime-main.js.map": "/store-func/static/js/runtime-main.03d8df78.js.map",
+    "static/js/2.d9452f08.chunk.js": "/store-func/static/js/2.d9452f08.chunk.js",
+    "static/js/2.d9452f08.chunk.js.map": "/store-func/static/js/2.d9452f08.chunk.js.map",
+    "static/js/3.cf653c6b.chunk.js": "/store-func/static/js/3.cf653c6b.chunk.js",
+    "static/js/3.cf653c6b.chunk.js.map": "/store-func/static/js/3.cf653c6b.chunk.js.map",
+    "index.html": "/store-func/index.html",
+    "static/css/main.8dd1c904.chunk.css.map": "/store-func/static/css/main.8dd1c904.chunk.css.map",
+    "static/js/2.d9452f08.chunk.js.LICENSE.txt": "/store-func/static/js/2.d9452f08.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/store-func/static/media/item-blue.2103f69b.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1a3d6a3a.js",
+    "static/js/runtime-main.03d8df78.js",
     "static/js/2.d9452f08.chunk.js",
-    "static/css/main.8a5f13a4.chunk.css",
+    "static/css/main.8dd1c904.chunk.css",
     "static/js/main.ae5c918c.chunk.js"
   ]
 }
